@@ -1,0 +1,15 @@
+{
+  "name": "pomodoro-clock",
+  "version": "1.0.0",
+  "description": "pomodoro-ctx",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "pomodoro",
+    "charliecatxph"
+  ],
+  "author": "charliecatxph",
+  "license": "ISC"
+}
